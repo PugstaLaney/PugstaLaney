@@ -4,19 +4,13 @@
 <p align="center">
   <a href="https://colo-sci.com/portfolio"><img src="https://img.shields.io/badge/portfolio-colo--sci.com-1d4e5f?style=flat-square" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/preston-laney-1465b598"><img src="https://img.shields.io/badge/linkedin-preston--laney-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/location-Winston--Salem%2C%20NC-1d4e5f?style=flat-square" alt="Location">
 </p>
 
 ---
 
 ### About
 
-MS Biomedical Science (Wake Forest University), three peer-reviewed oncology publications, bench-experience with patient-derived tumor organoids + HIPEC perfusion modeling. Currently focused on the software-engineering + data-science side of biomedical research: pharmacovigilance, geographic disease surveillance, survival analysis, AI-augmented literature synthesis, and 3D microscopy tracking.
-
-**Right now**
-- Shipping [**Colo**](https://colo-sci.com) — an AI literature-synthesis workspace for academic biomedical researchers, in production
-- Competing in the [**Biohub Cell Tracking**](https://kaggle.com/competitions/biohub-cell-tracking-during-development) Kaggle competition — first submission scored **0.647** combined Edge + Division Jaccard
-- Preparing a portfolio interview for cell segmentation at Sartorius
+MS Biomedical Science (Wake Forest University School of Medicine), BS Biochemistry (Arizona State University), three peer-reviewed oncology publications, and bench experience across patient-derived 3D tumor organoids, HIPEC perfusion modeling, immunotherapy efficacy testing, and building an analytical laboratory from scratch. Working across the software-engineering and data-science side of biomedical research — pharmacovigilance and real-world evidence (FDA FAERS, MedDRA coding, disproportionality analysis), geographic disease surveillance on CMS Medicare data, survival analysis (Kaplan-Meier + Cox proportional hazards), retrieval-augmented literature synthesis with multi-agent LLM systems, 3D microscopy detection and tracking with deep learning, and target-agnostic ML for drug discovery. Fluent at both benches — the lab and the terminal.
 
 ---
 
@@ -36,7 +30,7 @@ MS Biomedical Science (Wake Forest University), three peer-reviewed oncology pub
         <img src="assets/biohub_predictions.png" alt="Biohub predicted centroids" width="100%">
       </a>
       <p><strong><a href="https://github.com/PugstaLaney/Biohub-Zebrafish-Embryo-Prediction---Kaggle">Biohub Zebrafish Cell Tracking (Kaggle)</a></strong><br>
-      <sub>3D anisotropic DynUNet detector + Hungarian linker + three-check division rescue on 4D light-sheet microscopy. Trained locally on RTX 3060; scored <strong>0.647</strong> combined Edge + Division Jaccard on first submission.</sub></p>
+      <sub>3D anisotropic DynUNet detector + Hungarian linker + three-check division rescue on 4D light-sheet microscopy. Trained locally on RTX 3060; end-to-end pipeline from raw zarr volumes through sliding-window inference and cross-timepoint linking to Kaggle-format tracking graphs.</sub></p>
     </td>
   </tr>
   <tr>
@@ -124,4 +118,4 @@ At batch size 2, batch-normalization statistics are pure noise, so InstanceNorm 
 
 ---
 
-<p align="center"><sub>Winston-Salem, NC · <a href="https://colo-sci.com/portfolio">Full portfolio</a> · <a href="https://linkedin.com/in/preston-laney-1465b598">LinkedIn</a></sub></p>
+<p align="center"><sub><a href="https://colo-sci.com/portfolio">Full portfolio</a> · <a href="https://linkedin.com/in/preston-laney-1465b598">LinkedIn</a></sub></p>
