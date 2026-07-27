@@ -10,7 +10,7 @@
 
 ### About
 
-MS Biomedical Science (Wake Forest University School of Medicine), BS Biochemistry (Arizona State University), three peer-reviewed oncology publications, and bench experience across patient-derived 3D tumor organoids, HIPEC perfusion modeling, immunotherapy efficacy testing, and building an analytical laboratory from scratch. Working across the software-engineering and data-science side of biomedical research — pharmacovigilance and real-world evidence (FDA FAERS, MedDRA coding, disproportionality analysis), geographic disease surveillance on CMS Medicare data, survival analysis (Kaplan-Meier + Cox proportional hazards), retrieval-augmented literature synthesis with multi-agent LLM systems, 3D microscopy detection and tracking with deep learning, and target-agnostic ML for drug discovery. Fluent at both benches — the lab and the terminal.
+MS Biomedical Science (Wake Forest University School of Medicine), BS Biochemistry (Arizona State University), three peer-reviewed oncology publications, and bench experience across patient-derived 3D tumor organoids, HIPEC perfusion modeling, immunotherapy efficacy testing, and building an analytical laboratory from scratch. Working across the software-engineering and data-science side of biomedical research: pharmacovigilance and real-world evidence (FDA FAERS, MedDRA coding, disproportionality analysis), geographic disease surveillance on CMS Medicare data, survival analysis (Kaplan-Meier + Cox proportional hazards), retrieval-augmented literature synthesis with multi-agent LLM systems, 3D microscopy detection and tracking with deep learning, and target-agnostic ML for drug discovery. Fluent at both benches, the lab and the terminal.
 
 ---
 
@@ -22,7 +22,7 @@ MS Biomedical Science (Wake Forest University School of Medicine), BS Biochemist
       <a href="https://github.com/PugstaLaney/Colo">
         <img src="assets/colo_mindmap.png" alt="Colo evidence mindmap" width="100%">
       </a>
-      <p><strong><a href="https://colo-sci.com">Colo</a></strong> — production AI literature synthesis workspace<br>
+      <p><strong><a href="https://colo-sci.com">Colo</a></strong>, production multi-agent literature synthesis workspace<br>
       <sub>Two-agent adversarial debate over 3.4M+ indexed biomedical abstracts, evidence mindmap with citation-network overlays, methods scaffold generator. Python + FastAPI + ChromaDB + Anthropic Claude + Supabase + Stripe.</sub></p>
     </td>
     <td width="50%" valign="top">
