@@ -109,12 +109,20 @@ At batch size 2, batch-normalization statistics are pure noise, so InstanceNorm 
 
 ---
 
-### GitHub
+### In progress
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PugstaLaney&show_icons=true&hide_border=true&title_color=1d4e5f&icon_color=1d4e5f&text_color=1a1a1a&bg_color=fafbfc" width="46%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PugstaLaney&layout=compact&hide_border=true&title_color=1d4e5f&text_color=1a1a1a&bg_color=fafbfc" width="34%">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/PugstaLaney/CRC_Inhibitor_ML">Protein GNN IC50 Predictor</a></strong>, target-agnostic drug-response ranking<br>
+      <sub>GINE molecule encoder fused with frozen ESM-2 protein embeddings, trained on public bioactivity data to generalize across drug targets it never saw at training time. In progress as a companion tool for the Colo-Sci research workflow.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/PugstaLaney/mosquito-GAN">Mosquito GAN + DNA-LM Benchmark</a></strong>, evolutionary inference and foundation-model transfer<br>
+      <sub>Annotated walkthrough of the Mathieson lab's pg-gan-mosquito population-genetics GAN for <em>Anopheles gambiae</em>, alongside original benchmarking of DNA foundation models (Nucleotide Transformer, DNABERT-2, HyenaDNA) on chromosome 3L. Preliminary finding: mean MLM loss sits essentially at the uniform baseline, transfer failure appears species-specific rather than sequence-type-specific.</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
